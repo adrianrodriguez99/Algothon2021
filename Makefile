@@ -6,4 +6,4 @@ run: bin/guesser
 	@bin/low_latency
 
 make clean:
-	rm -rf bin
+	@rm -rf bin
